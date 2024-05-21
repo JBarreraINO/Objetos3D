@@ -1,0 +1,15 @@
+# Archivos específicos que exceden el límite de 50 MB
+SUMO_AUTO/22.STL
+SUMO_AUTO/rin.STL
+case\ cronometro/casebottom.STL
+sumo/Pieza4.STL
+SUMO_AUTO/SOPORTE\ MOTOR\ SUMO.STL
+microscope/base_1.1.STL
+
+# Archivos específicos que exceden el límite de 100 MB
+Turbina\ Barrera.ino/helice\ -\ copiaqwe.STL
+microscope/cama\ muestras.STL
+SUMO_AUTO/soporte\ motor.STL
+Turbina\ Barrera.ino/helice\ -\ copia.STL
+*.largefileextension
+EOF
